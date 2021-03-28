@@ -1,0 +1,25 @@
+@import '../untils/variebles.scss';
+
+@mixin media-tablet {
+  @media (min-width: $min-width) {
+    @content;
+  }
+}
+
+@mixin media-tablet {
+  @media (min-width: $min-width) {
+    @content;
+  }
+}
+
+@mixin media-tablet {
+  @media (min-width: $min-width) {
+    @content;
+  }
+}
+
+@mixin media-tablet {
+  @media (min-width: $min-width) {
+    @content;
+  }
+}
